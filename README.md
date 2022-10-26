@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I am an undergrad at Boston University studying Physics and CS.
+### I am currently learning C and looking for new ways to apply my academic knowledge to real world problems :)
+### 
 
 <!--
 **ivannadels/ivannadels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
